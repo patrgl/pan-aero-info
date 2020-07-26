@@ -1,0 +1,43 @@
+html, body{ height:100%; margin:0; }
+header{ height:50px; background:lightcyan; }
+footer{ height:50px; background:PapayaWhip; }
+
+#header {
+    background-color: lightblue;
+    text-align: center;
+}
+#button {
+    
+    padding: 100px;
+    background-color: lightgrey;
+    display: inline-block;
+}
+#button-container {
+    text-align: center;
+}
+#container {
+    font-family: Helvetica, Arial,  sans-serif;
+ 
+}
+#footer {
+    text-align: center;
+    background-color: lightblue;
+    clear: both;
+    margin-top: auto; 
+    font-family: Helvetica, Arial,  sans-serif;
+}
+#metarholder {
+    text-align: center;
+}
+#metarbox {
+    background-color: darkgrey;
+    padding: 10px;
+    display: inline-block;
+    
+}
+
+body { 
+    display:flex; 
+    flex-direction:column; 
+}
+
